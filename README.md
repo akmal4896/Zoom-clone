@@ -6,6 +6,9 @@ Notes:
 2) Deploy finished project on Heroku 
 link: https://fast-wildwood-09704.herokuapp.com/c11f5b2b-953a-4642-b5ce-cc382c634775
 
+Bugs:
+1) Local audio played
+
 =======================================================
 Client:
 1) EJS (JS template engine)
