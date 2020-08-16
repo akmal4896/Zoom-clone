@@ -3,8 +3,8 @@ Simple Zoom clone web app.
 
 Notes:
 1) Initialize NodeJS project with npm init with ExpressJS dependencies.
-2) Deploy finished project on Heroku with 
-
+2) Deploy finished project on Heroku 
+link: https://fast-wildwood-09704.herokuapp.com/c11f5b2b-953a-4642-b5ce-cc382c634775
 
 =======================================================
 Client:
@@ -25,6 +25,8 @@ Server Hosting:
 npm install -g heroku
 heroku create
 git push heroku master
+heroku ps:scale web=1
+heroku open
 
 Database:
 n/a
